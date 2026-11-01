@@ -1,0 +1,9 @@
+location_id,location_name,location_type,city,country,is_active
+LOC-000001,Central Warehouse A,Warehouse,Chicago,USA,True
+LOC-000002,West Coast Hub,Warehouse,Seattle,USA,True
+LOC-000003,Downtown Store,Retail Store,New York,USA,True
+LOC-000004,Suburban Store,Retail Store,Boston,USA,True
+LOC-000005,Dark Store East,Dark Store,New York,USA,True
+LOC-000006,Online Marketplace,Online Channel,Remote,USA,True
+LOC-000007,European DC,Warehouse,Frankfurt,Germany,True
+LOC-000008,Asia-Pacific Hub,Warehouse,Singapore,Singapore,True
